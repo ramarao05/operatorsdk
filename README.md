@@ -30,3 +30,5 @@
 ##### 5. git checkout master
 ##### 6. make install
 
+## Software prereq:
+#### Docker to work with WSL --> https://docs.docker.com/docker-for-windows/wsl/
