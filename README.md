@@ -32,12 +32,16 @@
 
 ## Software prereq:
 #### Docker to work with WSL --> https://docs.docker.com/docker-for-windows/wsl/
+#### DOcker as nonroot user for minikube to start --> https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user
 #### Python on WSK --> https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80
 #### Ansible on WSL https://fakhridarmawan.medium.com/install-ansible-on-windows-subsystem-linux-ac9245219077
 #### Ansible Runner on WSL https://ansible-runner.readthedocs.io/en/latest/install.html
 #### Asnible runnert http ---> not sure
 #### OPenshift --> https://pypi.org/project/openshift/
 #### Kubectl https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+#### minikube -> curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+sudo install minikube-linux-amd64 /usr/local/bin/minikube
+
 
 
 
