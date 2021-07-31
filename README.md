@@ -33,3 +33,15 @@
 ## Software prereq:
 #### Docker to work with WSL --> https://docs.docker.com/docker-for-windows/wsl/
 #### Python on WSK --> https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80
+#### Ansible on WSL https://fakhridarmawan.medium.com/install-ansible-on-windows-subsystem-linux-ac9245219077
+#### Ansible Runner on WSL https://ansible-runner.readthedocs.io/en/latest/install.html
+#### Asnible runnert http ---> not sure
+#### OPenshift --> https://pypi.org/project/openshift/
+#### Kubectl https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+
+
+
++++
+Simple Process as below::
+
+#### https://docs.openshift.com/container-platform/4.4/operators/operator_sdk/osdk-ansible.html
