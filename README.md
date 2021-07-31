@@ -32,3 +32,4 @@
 
 ## Software prereq:
 #### Docker to work with WSL --> https://docs.docker.com/docker-for-windows/wsl/
+#### Python on WSK --> https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80
