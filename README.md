@@ -53,3 +53,7 @@ Simple Process as below::
 operator-sdk older version dont have some options . 
 
 ####https://sdk.operatorframework.io/docs/installation/  use 1st install procedss (not from git)
+
+
+
+For testing ::: https://github.com/ktenzer/operator-helloworld
