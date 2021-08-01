@@ -49,3 +49,7 @@ sudo install minikube-linux-amd64 /usr/local/bin/minikube
 Simple Process as below::
 
 #### https://docs.openshift.com/container-platform/4.4/operators/operator_sdk/osdk-ansible.html
+
+operator-sdk older version dont have some options . 
+
+####https://sdk.operatorframework.io/docs/installation/  use 1st install procedss (not from git)
